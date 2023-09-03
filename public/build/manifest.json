@@ -1,0 +1,84 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-4ed993c7.js",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/js/app.js": {
+    "assets": [
+      "assets/callibri_1-89d9b377.png",
+      "assets/callibri_2-cdb5d243.png",
+      "assets/vk_1-d2f6e43d.png",
+      "assets/topvisor_1-06ba2a87.png",
+      "assets/topvisor_2-4066c74e.png",
+      "assets/topvisor_3-d0ec166b.png",
+      "assets/topvisor_5-2666054c.png",
+      "assets/topvisor_4-b0cef246.png",
+      "assets/direct_example-1-a91ccc3f.png",
+      "assets/direct_example-2-75966a6a.png",
+      "assets/direct-1-3bd14954.png",
+      "assets/direct-2-a047531c.png",
+      "assets/direct-3-2edc8d81.png",
+      "assets/direct-4-38c532ec.png"
+    ],
+    "file": "assets/app-f7144841.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/js/images/callibri_1.png": {
+    "file": "assets/callibri_1-89d9b377.png",
+    "src": "resources/js/images/callibri_1.png"
+  },
+  "resources/js/images/callibri_2.png": {
+    "file": "assets/callibri_2-cdb5d243.png",
+    "src": "resources/js/images/callibri_2.png"
+  },
+  "resources/js/images/direct-1.png": {
+    "file": "assets/direct-1-3bd14954.png",
+    "src": "resources/js/images/direct-1.png"
+  },
+  "resources/js/images/direct-2.png": {
+    "file": "assets/direct-2-a047531c.png",
+    "src": "resources/js/images/direct-2.png"
+  },
+  "resources/js/images/direct-3.png": {
+    "file": "assets/direct-3-2edc8d81.png",
+    "src": "resources/js/images/direct-3.png"
+  },
+  "resources/js/images/direct-4.png": {
+    "file": "assets/direct-4-38c532ec.png",
+    "src": "resources/js/images/direct-4.png"
+  },
+  "resources/js/images/direct_example-1.png": {
+    "file": "assets/direct_example-1-a91ccc3f.png",
+    "src": "resources/js/images/direct_example-1.png"
+  },
+  "resources/js/images/direct_example-2.png": {
+    "file": "assets/direct_example-2-75966a6a.png",
+    "src": "resources/js/images/direct_example-2.png"
+  },
+  "resources/js/images/topvisor_1.png": {
+    "file": "assets/topvisor_1-06ba2a87.png",
+    "src": "resources/js/images/topvisor_1.png"
+  },
+  "resources/js/images/topvisor_2.png": {
+    "file": "assets/topvisor_2-4066c74e.png",
+    "src": "resources/js/images/topvisor_2.png"
+  },
+  "resources/js/images/topvisor_3.png": {
+    "file": "assets/topvisor_3-d0ec166b.png",
+    "src": "resources/js/images/topvisor_3.png"
+  },
+  "resources/js/images/topvisor_4.png": {
+    "file": "assets/topvisor_4-b0cef246.png",
+    "src": "resources/js/images/topvisor_4.png"
+  },
+  "resources/js/images/topvisor_5.png": {
+    "file": "assets/topvisor_5-2666054c.png",
+    "src": "resources/js/images/topvisor_5.png"
+  },
+  "resources/js/images/vk_1.png": {
+    "file": "assets/vk_1-d2f6e43d.png",
+    "src": "resources/js/images/vk_1.png"
+  }
+}
